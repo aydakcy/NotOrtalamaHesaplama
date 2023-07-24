@@ -1,0 +1,2 @@
+# NotOrtalamaHesaplama
+Not Ortalaması Hesaplama
